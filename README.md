@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Anirudh Nambiar! 
 
-<!--
-**Anirudh-N-15/Anirudh-N-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Anirudh-N-15&color=blue)
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-N-15&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-N-15&layout=compact&theme=radical)](https://github.com/your-username/github-readme-stats)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anirudh-nambiar-7435b4236)
