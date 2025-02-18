@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 */24 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          user: Anirudh-N-15
+          template: classic
+          base: header, activity, repositories
+          config_timezone: Asia/Kolkata
+          
+          # Additional plugins you might want:
+          plugin_languages: yes
+          plugin_achievements: yes
+          plugin_isocalendar: yes
+          plugin_habits: yes
+          plugin_stars: yes
