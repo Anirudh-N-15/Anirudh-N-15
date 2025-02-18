@@ -14,3 +14,5 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anirudh-nambiar-7435b4236)
+
+![Snake animation](https://github.com/{username}/{username}/blob/output/github-snake-dark.svg)
